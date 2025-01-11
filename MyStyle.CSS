@@ -5,6 +5,11 @@ h3 {
   color: MediumSeaGreen;
 }
 body {
- font-family: Comfortaa, Arial, sans-serif;
+  font-family: Comfortaa, Arial, sans-serif;
   font-size: 0.875em;
+}
+#intro {
+  width: 50%;
+  margin: 0 auto;
+  box-sizing: border-box;
 }
