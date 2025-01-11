@@ -9,6 +9,6 @@ body {
   font-size: 0.875em;
   width: 65%
 }
-div {
+div, ol, ul, li {
   width: 65%;
 }
