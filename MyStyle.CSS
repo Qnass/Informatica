@@ -9,6 +9,10 @@ body {
   font-size: 0.875em;
   width: 65%;
 }
+
+#intro-title {
+  color: #0bb546;
+}
 #intro {
   width: 90%;
   padding: 10px;
