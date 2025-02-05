@@ -48,10 +48,11 @@ body {
 .image-container {
     display: flex; 
     gap: 10px;
-    align-items: center;
+    align-items: flex-start;
 }
 
 .Pokemon_1, .Ninjago_1 {
-    width: 400px;
-    height: auto;
+    width: auto;
+    height: 300px;
+    object-fit: cover;
 }
