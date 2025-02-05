@@ -45,7 +45,12 @@ body {
   min-height: 100vh;
 }
 
-.Pokemon_1 {
+.image-container {
+    display: flex; 
+    gap: 10px;
+}
+
+.Pokemon_1, .Ninjago_1 {
     width: 300px;
     height: auto;
 }
