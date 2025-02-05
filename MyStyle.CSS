@@ -71,3 +71,7 @@ body {
 .image-container {
     animation: slideIn 1s ease-out;
 }
+
+#random{
+  width: 90%;
+} 
