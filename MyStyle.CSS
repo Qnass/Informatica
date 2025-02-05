@@ -56,3 +56,18 @@ body {
     height: 300px;
     object-fit: cover;
 }
+
+@keyframes slideIn {
+    from {
+        transform: translateX(-100vw); /* Start off-screen */
+        opacity: 0;
+    }
+    to {
+        transform: translateX(0);
+        opacity: 1;
+    }
+}
+
+.animated-image {
+    animation: slideIn 1s ease-out;
+}
