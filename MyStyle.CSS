@@ -68,6 +68,6 @@ body {
     }
 }
 
-.animated-image {
+.image-container {
     animation: slideIn 1s ease-out;
 }
