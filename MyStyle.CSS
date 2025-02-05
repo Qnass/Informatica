@@ -44,3 +44,8 @@ body {
   background-repeat: no-repeat;
   min-height: 100vh;
 }
+
+.Pokemon_1 {
+    width: 300px;
+    height: auto;
+}
