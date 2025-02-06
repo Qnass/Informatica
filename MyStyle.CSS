@@ -76,3 +76,7 @@ body {
 #random{
   width: 90%;
 } 
+
+#border {
+  border-left: 2px solid DodgerBlue;
+}
