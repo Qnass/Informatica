@@ -58,8 +58,8 @@ body {
     object-fit: cover;
 }
 .Islam_1 {
-    height: 360xp;
-    width: auto;
+    height: 340xp;
+    object-fit: cover;
 }
 
 @keyframes slideIn {
