@@ -79,7 +79,7 @@ body {
 
 #border {
   background-color: #4BB3B4;
-  border-left-color: solid black; 
+  border-left-color: 2px solid black; 
   border-radius: 15px; 
   border-top-left-radius: 0; 
   border-bottom-left-radius: 0; 
