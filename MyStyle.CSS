@@ -78,5 +78,9 @@ body {
 } 
 
 #border {
-  border-left: 2px solid DodgerBlue;
+  background-color: #f1f1f1;
+  border-left-color: black; 
+  border-radius: 15px; 
+  border-top-left-radius: 0; 
+  border-bottom-left-radius: 0; 
 }
