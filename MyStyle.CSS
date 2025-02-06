@@ -78,8 +78,8 @@ body {
 } 
 
 #border {
-  background-color: #35CA8C;
-  border-left-color: 2px solid black; 
+  border-left-color: 2px solid Black;
+  background-color: #35CA8C; 
   border-radius: 15px; 
   border-top-left-radius: 0; 
   border-bottom-left-radius: 0; 
