@@ -90,3 +90,11 @@ body {
   border-bottom-left-radius: 0; 
   width: 25%;
 }
+#border_1 {
+  border-left-color: 2px solid black;
+  background-color: #24DB80; 
+  border-radius: 15px; 
+  border-top-left-radius: 0; 
+  border-bottom-left-radius: 0; 
+  width: 35%;
+}
