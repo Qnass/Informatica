@@ -10,16 +10,6 @@ body {
   width: 65%;
 }
 
-#intro-title {
-  color: #0bb546;
-}
-#intro {
-  width: 90%;
-  padding: 10px;
-  border: 2px solid #0ab078;
-  border-radius: 15px;
-}
-
 ol {
   list-style: none; 
   padding-left: 20px;
@@ -78,6 +68,18 @@ body {
     animation: slideIn 1s ease-out;
 }
 
+
+#intro-title {
+  color: #0bb546;
+}
+
+#intro {
+  width: 90%;
+  padding: 10px;
+  border: 2px solid #0ab078;
+  border-radius: 15px;
+}
+
 #random{
   width: 90%;
 } 
@@ -96,5 +98,5 @@ body {
   border-radius: 15px; 
   border-top-left-radius: 0; 
   border-bottom-left-radius: 0; 
-  width: 35%;
+  width: 30%;
 }
