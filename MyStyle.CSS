@@ -3,11 +3,12 @@
     display: flex;
     gap: 20px;
     padding: 15px;
-    position: sticky;
+    position: fixed;
     top: 0;
+    left: 0;
     z-index: 100;
     overflow: hidden;
-    width: 100vw;
+    width: 100%;
 }
 
 #navigation_bar a {
@@ -34,6 +35,8 @@ body {
   font-family: Comfortaa, Arial, sans-serif;
   font-size: 0.875em;
   width: 65%;
+  margin: 0;
+  overflow-x: hidden;
 }
 
 ol {
