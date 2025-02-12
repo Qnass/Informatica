@@ -1,5 +1,5 @@
 #navigation_bar{
-    background-color: #16a085 ;  
+    background-color: #16a085;  
     display: flex;
     justify-content: center;
     gap: 20px;
@@ -13,7 +13,7 @@
 }
 
 #navigation_bar a {
-    color: white
+    color: white;
     text-decoration: none;
     font-weight: bold;
     padding: 5px 10px;
