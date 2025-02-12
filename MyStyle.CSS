@@ -1,5 +1,5 @@
 #navigation_bar{
-    background-color: #73C088;  
+    background-color: #16a085 ;  
     display: flex;
     justify-content: center;
     gap: 20px;
@@ -8,6 +8,8 @@
     position: sticky;
     top: 0;
     z-index: 100;
+    overflow: hidden;
+    width: 100vw;
 }
 
 #navigation_bar a {
@@ -21,7 +23,7 @@
 
 #navigation_bar a:hover {
     background-color: white;
-    color: #73C088;
+    color: #16a085;
 }
 
 
